@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "299480835203",
+    "firebase_url": "https://ervicios-el-altopro-default-rtdb.firebaseio.com",
+    "project_id": "ervicios-el-altopro",
+    "storage_bucket": "ervicios-el-altopro.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299480835203:android:0bef3a285a126453e6e7b6",
+        "android_client_info": {
+          "package_name": "com.servicios_el_alto.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299480835203-6mscllni6belol4qinh13mn1m1sntqcr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.servicios_el_alto.app",
+            "certificate_hash": "a5126d8706cbe34bea75de54afa97c3ae253bf1c"
+          }
+        },
+        {
+          "client_id": "299480835203-4r2pg66tjkcftp5s6bkrjbnpcf6omb2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvNLoUjrGU7rWLvbz7sTMCRTxKT0496WU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299480835203-4r2pg66tjkcftp5s6bkrjbnpcf6omb2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
