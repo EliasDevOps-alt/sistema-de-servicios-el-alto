@@ -27,7 +27,7 @@ class _LoginScreenState extends State<LoginScreen> {
       // 🔥 AQUÍ ESTÁ EL CAMBIO: El ID de tu NUEVO proyecto (ervicios-el-altopro)
       // ---------------------------------------------------------
       await googleSignIn.initialize(
-        serverClientId: "299480835203-4r2pg66tjkcftp5s6bkrjbnpcf6omb2o.apps.googleusercontent.com",
+        serverClientId: "241627293072-p0sldeullp4bp3mdagufokrnlhmfj4th.apps.googleusercontent.com",
       );
 
       // 3. Iniciar el flujo de autenticación (ahora se llama authenticate)

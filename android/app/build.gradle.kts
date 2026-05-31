@@ -19,7 +19,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.servicios_el_alto.app"
+        applicationId = "com.example.sistema_servicios"
         
         minSdk = flutter.minSdkVersion 
         

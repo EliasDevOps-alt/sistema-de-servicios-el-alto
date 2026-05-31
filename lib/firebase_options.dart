@@ -51,7 +51,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyCwIIdDbWexXxJTPdmhunH_LYSrcmTwhJw',
-    appId: '1:241627293072:android:f9d5f17b800fc790157f15',
+    appId: '1:241627293072:android:2bea5ed3fa505f33157f15',
     messagingSenderId: '241627293072',
     projectId: 'servicioselalto',
     storageBucket: 'servicioselalto.firebasestorage.app',
@@ -63,6 +63,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '241627293072',
     projectId: 'servicioselalto',
     storageBucket: 'servicioselalto.firebasestorage.app',
+    androidClientId: '241627293072-1e2cjrni7sm5nnkp1sk002qjumr9efu1.apps.googleusercontent.com',
+    iosClientId: '241627293072-0a2oon8e5174leslqk20ase8e3lat98c.apps.googleusercontent.com',
     iosBundleId: 'com.example.sistemaServicios',
   );
 
@@ -72,6 +74,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '241627293072',
     projectId: 'servicioselalto',
     storageBucket: 'servicioselalto.firebasestorage.app',
+    androidClientId: '241627293072-1e2cjrni7sm5nnkp1sk002qjumr9efu1.apps.googleusercontent.com',
+    iosClientId: '241627293072-0a2oon8e5174leslqk20ase8e3lat98c.apps.googleusercontent.com',
     iosBundleId: 'com.example.sistemaServicios',
   );
 
@@ -83,4 +87,5 @@ class DefaultFirebaseOptions {
     authDomain: 'servicioselalto.firebaseapp.com',
     storageBucket: 'servicioselalto.firebasestorage.app',
   );
+
 }
